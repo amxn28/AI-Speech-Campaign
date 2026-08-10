@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+anthropic
+chromadb
+sentence-transformers
+pypdf
+python-docx
+langchain
+langchain-text-splitters
+python-multipart
+openai
+edge-tts
